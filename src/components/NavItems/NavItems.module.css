@@ -1,0 +1,9 @@
+.navitem {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #b7b7b7;
+}
+.link:hover {
+    color: #fff; 
+  }

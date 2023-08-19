@@ -1,0 +1,19 @@
+.next_page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.next_btn{
+    background: #ffb43a;
+    padding: 12px 20px;
+    color: #fcfeff;
+    font-weight: 500;
+    border-radius: 3px;
+}
+
+.next_btn:hover {
+    background: #ffb43a;
+    scale: 1.1;
+}

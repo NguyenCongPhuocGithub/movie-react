@@ -1,0 +1,22 @@
+.searchbox {
+    max-width: 240px;
+    width: 100%;
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    border-radius: 30px;
+    background-color: #2D2E37;
+    padding: 10px;
+}
+.inputsearch {
+    width: 100%;
+    background-color: #2D2E37;
+    border: none !important;
+    outline: none;
+    color: #fcfeff;
+    padding-left: 10px;
+}
+.iconsearch {
+    color: #fff;
+    padding: 0 10px 0 0;
+}

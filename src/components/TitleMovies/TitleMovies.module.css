@@ -1,0 +1,11 @@
+.heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #2d2e37;
+    padding: 10px 14px;
+    border: 1px solid hsl(200 100% 99% / 5%);
+    height: 47px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}

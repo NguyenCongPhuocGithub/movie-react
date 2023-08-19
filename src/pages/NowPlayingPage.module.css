@@ -1,0 +1,13 @@
+.button_down, .button_up{
+    background: #ffb43a;
+    padding: 12px 20px;
+    color: #fcfeff;
+    font-weight: 500;
+    border-radius: 3px;
+    margin-top: 40px;
+}
+
+.button_down:hover, .button_up:hover{
+    background: #ffb43a;
+    scale: 1.1;
+}

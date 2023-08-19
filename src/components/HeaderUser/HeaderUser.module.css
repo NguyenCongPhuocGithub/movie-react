@@ -1,0 +1,10 @@
+.User_img{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.User_img img{
+    width: 100%;
+}
