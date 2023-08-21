@@ -19,7 +19,7 @@
     left: 10px;
 }
 
-@media(max-width: 768px){
+@media(max-width: 1023px){
     .navbar_wrapper {
         top: auto;
         bottom: 0;
